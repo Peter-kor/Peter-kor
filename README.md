@@ -1,6 +1,7 @@
 Hi, Nece to meet you.
 I'm James.
-I work as a I’m currently learning SQL, Python and any others for visualizing.
+I'm just starting to learn SQL, Python and any others for visualizing.
+So If you don't mind, please give some any advices for growth.
 
 <!---
 Peter-kor/Peter-kor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
